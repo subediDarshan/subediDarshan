@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Currently working on building feedback management web app<br>🌱 Currently learning NextJS and python<br>⚛️ Have worked on React and ExpressJS ecosystem<br>🌍 Passionate about traveling the world as a digital nomad
+🛠️ Currently working on an entrance exam MCQ practice web app – **MCQPrep** <br>🌱 Exploring LangChain and building AI-powered applications with Next.js and FastAPI<br>⚛️ Have worked on MERN and T3 ecosystem<br>📦 Love building practical SaaS apps that solve real-world problems
 
 
 ## 🌐 Socials:
