@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Currently working on AI agent that simulates IoT health data via WebSockets, and triggers real-time emergency workflows. – **NeuroBridge** <br>🌱 Exploring LangChain and building AI-powered applications with Next.js and FastAPI<br>⚛️ Have worked on MERN and T3 ecosystem<br>📦 Love building practical SaaS apps that solve real-world problems
+🛠️ Currently working on an AI health agent that monitors vitals in real time and automatically escalates emergency workflows. – **NeuroBridge** <br>🌱 Exploring LangChain and building AI-powered applications with Next.js and FastAPI<br>⚛️ Have worked on MERN and T3 ecosystem<br>📦 Love building practical SaaS apps that solve real-world problems
 
 
 ## 🌐 Socials:
